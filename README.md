@@ -1,4 +1,4 @@
-[![Banner](./images/banner.png)](https://www.laurentlebarbier.fr)
+[![Banner](./images/banner.png)](https://www.world-of-desolation.fr)
 
 # Je suis Laurent, vivant en Haute Saone, Développeur Web et Web mobile ! 😁
 
@@ -12,7 +12,7 @@
 ## Contactez-moi 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lebarbier-laurent/)
-[![Website](https://img.shields.io/badge/Site%20Web-813ee8?style=for-the-badge)](https://www.laurentlebarbier.fr)
+[![Website](https://img.shields.io/badge/Site%20Web-813ee8?style=for-the-badge)](https://www.world-of-desolation.fr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/laurent.lebarbier.5)
 
 ## Tech / Languages
@@ -30,5 +30,5 @@
  
 ## Divers
 
-![stats](https://github-readme-stats.vercel.app/api?username=Laurent70300)
+![stats](https://github-readme-stats.vercel.app/api?username=Senwoo34110)
           
